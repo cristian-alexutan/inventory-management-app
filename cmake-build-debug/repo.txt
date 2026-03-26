@@ -1,9 +1,0 @@
-Poodle;Bella;4;https://example.com/bella.jpg;
-Dachshund;Daisy;2;https://example.com/daisy.jpg;
-Labrador;Buddy;3;http://example.com/buddy.jpg;
-Siberian Husky;Luna;4;https://example.com/luna.jpg;
-Beagle;mircea;2;https://example.com/charlie.jpg;
-German Shepherd;mircea;5;https://example.com/max.jpg;
-Golden Retriever;Molly;3;https://example.com/molly.jpg;
-Bulldog;Rocky;6;https://example.com/rocky.jpg;
-Beagle;Mircea;12;https://example.com/mircea.png;

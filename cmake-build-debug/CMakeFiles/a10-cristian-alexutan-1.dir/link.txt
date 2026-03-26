@@ -1,3 +1,0 @@
-"C:\Program Files\JetBrains\CLion 2024.2.2\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\a10-cristian-alexutan-1.dir/objects.a
-C:\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\a10-cristian-alexutan-1.dir/objects.a @CMakeFiles\a10-cristian-alexutan-1.dir\objects1.rsp
-C:\Qt\Tools\mingw1310_64\bin\c++.exe -g -Wl,--whole-archive CMakeFiles\a10-cristian-alexutan-1.dir/objects.a -Wl,--no-whole-archive -o a10-cristian-alexutan-1.exe -Wl,--out-implib,liba10-cristian-alexutan-1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\a10-cristian-alexutan-1.dir\linkLibs.rsp
