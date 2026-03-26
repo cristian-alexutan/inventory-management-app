@@ -1,0 +1,5 @@
+C:/uni/oop/a10-cristian-alexutan-1/cmake-build-debug/CMakeFiles/a10-cristian-alexutan-1.dir
+C:/uni/oop/a10-cristian-alexutan-1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/uni/oop/a10-cristian-alexutan-1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/uni/oop/a10-cristian-alexutan-1/cmake-build-debug/CMakeFiles/a10-cristian-alexutan-1_autogen_timestamp_deps.dir
+C:/uni/oop/a10-cristian-alexutan-1/cmake-build-debug/CMakeFiles/a10-cristian-alexutan-1_autogen.dir
